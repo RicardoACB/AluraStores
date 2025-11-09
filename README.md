@@ -43,6 +43,8 @@ pip install pandas matplotlib
 
 Para ejeutar el codigo simplemente se tiene que hacer click en el simbolo de "continue" a la izquierda de cada celda de codigo.
 
+![Texto alternativo](assets/ejecutar-celda-google-colab.png)
+
 
 
 
